@@ -1,0 +1,20 @@
+# Site settings
+title: Saket's
+description: Saket's Portfolio
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "https://saket27nov.github.io"
+
+# User settings
+username: Saket
+user_description: I am gonna make it big cause that's what I have promised to myself
+user_title: Genius Entreprenuer Visionary Philanthropist
+email: saket27nov@yahoo.com
+twitter_username: saket27nov
+github_username:  saket27nov
+gplus_username:  saket27nov
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
